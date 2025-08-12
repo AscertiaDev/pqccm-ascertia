@@ -54,6 +54,9 @@ The list below lista algorithms standardized by FIPS. The previous list listing 
 
 | Vendor                                  | Product          | Category         | Last updated | [X.509 Hybrid certificates](#references) | [LMS](#references) | [XMSS](#references) | [ML-KEM/FIPS-203](#references) | [ML-DSA/FIPS-204](#references) | [SLH-DSA/FIPS-205](#references) |
 | :-------------------------------------- | :--------------- | :--------------- |:-------------| :-------------------------------------: | :----------------: | :-----------------: | :-----------------: | :-------------------: | :----------------------: |
+| [Ascertia](#ascertia)                   | ADSS PKI Server  | PKI              | 2025-08-12   |:x: |:x: |:x: |:heavy_check_mark: |:heavy_check_mark: |:clock1: |
+| [Ascertia](#ascertia)                   | ADSS Signing Server | Signing software | 2025-08-12 |:x: |:x: |:x: |:heavy_check_mark: |:heavy_check_mark: |:clock1: |
+| [Ascertia](#ascertia)                   | ADSS Server SAM Service\Appliance | Signing software\Signature Activation Module | 2025-08-12 |:x: |:x: |:x: |:heavy_check_mark: |:heavy_check_mark: |:clock1: |
 | [ANKATech](#ankatech)                   | ANKASecure | REST API & SaaS | 2025-05-30   |:x: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [AppViewX](#appviewx)                   | AVX ONE PKIaaS | PKI | 2025-04-21   |:heavy_check_mark: |:clock1: |:clock1: |:x: | :heavy_check_mark: | :heavy_check_mark: |
 | [Botan](#botan)                         | Botan            | Software library | 2025-02-27   |:x: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
